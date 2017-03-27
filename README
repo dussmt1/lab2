@@ -1,0 +1,8 @@
+compile:
+	make
+run:
+	./lab2
+require file:
+	file.in
+output file(overwirte if exist):
+	file.out
